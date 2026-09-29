@@ -35,8 +35,8 @@ SurvivalRaceRebuilt is a fast-paced arcade racing survival game built in Unity. 
 |-----|--------|
 | A / ← | Turn Left |
 | D / → | Turn Right |
-| W | Flight Enable |
-| S | Flight Disable |
+| W | Flight Enable/Disable |
+| S | Flight Disable/Enable |
 
 ---
 

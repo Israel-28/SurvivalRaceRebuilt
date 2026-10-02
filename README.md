@@ -22,6 +22,7 @@ SurvivalRaceRebuilt is a fast-paced arcade racing survival game built in Unity. 
 
 ### Option 1 — Play in Browser
 *(Coming soon — WebGL build)*
+[DEMO BUILD](https://testcar0720.netlify.app/)
 
 ### Option 2 — Download & Run
 1. Go to the **[Releases](https://github.com/Israel28/SurvivalRaceRebuilt/releases)** page
